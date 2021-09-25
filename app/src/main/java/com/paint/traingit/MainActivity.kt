@@ -39,4 +39,8 @@ class MainActivity : AppCompatActivity() {
     fun test7() {
 
     }
+
+    fun test8() {
+
+    }
 }
